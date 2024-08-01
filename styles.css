@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid gray;
+    border-radius: 5px;
+}
+
+#person-img {
+    margin: 10px;
+    border-radius: 30px;
+}
