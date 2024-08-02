@@ -2,29 +2,29 @@
 const reviews = [
     {
         id: 1,
-        name: "susan smith",
-        job: "web developer",
+        name: "Susan Smith",
+        job: "Web Developer",
         img: "./assets/64.jpg",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae labore aliquid, vero minima et voluptatem eligendi enim iusto, illum veniam incidunt eius quaerat quis. Magni doloribus reiciendis cumque accusantium."
     },
     {
         id: 2,
-        name: "lynn johnson",
-        job: "web designer",
+        name: "Lynn Johnson",
+        job: "Web Designer",
         img: "./assets/2.jpg",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae labore aliquid, vero minima et voluptatem eligendi enim iusto, illum veniam incidunt eius quaerat quis. Magni doloribus reiciendis cumque accusantium."
     },
     {
         id: 3,
-        name: "peter jones",
-        job: "intern",
+        name: "Peter Jones",
+        job: "Intern",
         img: "./assets/52.jpg",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae labore aliquid, vero minima et voluptatem eligendi enim iusto, illum veniam incidunt eius quaerat quis. Magni doloribus reiciendis cumque accusantium."
     },
     {
         id: 4,
-        name: "bill gates",
-        job: "founder",
+        name: "Bill Gates",
+        job: "Founder",
         img: "./assets/21.jpg",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae labore aliquid, vero minima et voluptatem eligendi enim iusto, illum veniam incidunt eius quaerat quis. Magni doloribus reiciendis cumque accusantium."
     }
